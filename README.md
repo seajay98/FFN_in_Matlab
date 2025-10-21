@@ -9,4 +9,5 @@ The network is applied to pricing European options, and explores the practical i
 The code is in the /src directory and is fully described in the LaTeX pdf. 
 
 ## Contributors
+[Charles Destefani](https://www.linkedin.com/in/cj-destefani/) is the primary author, and
 [Dr. Ruihua Liu](https://udayton.edu/directory/artssciences/mathematics/liu_ruihua.php) helped the author develop this.
